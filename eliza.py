@@ -1,5 +1,5 @@
 ############################################################################
-# eliza.java
+# eliza.py
 ############################################################################
 #
 # This program is a simple Eliza implementation. Eliza plays the role of a
